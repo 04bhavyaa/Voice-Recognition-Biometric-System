@@ -1,0 +1,13 @@
+Flask
+Streamlit
+tensorflow
+librosa
+numpy
+pandas
+scikit-learn
+mysql-connector-python
+sounddevice
+wave
+requests
+openai-whisper
+keras
