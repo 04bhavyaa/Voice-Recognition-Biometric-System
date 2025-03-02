@@ -39,8 +39,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/voice-recognition-biometric.git
-   cd voice-recognition-biometric
+   git clone [https://github.com/your-username/voice-recognition-biometric.git](https://github.com/04bhavyaa/Voice-Recognition-Biometric-System)
+   cd Voice-Recognition-Biometric-System
    ```
 2. **Create a Virtual Environment (Optional):**
    ```bash
